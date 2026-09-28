@@ -2,14 +2,13 @@
   "id": "ai-quota-monitor",
   "repo": "libo-zhou/ccgui-plugin-ai-quota-monitor",
   "tier": "js",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "minAppVersion": "1.0.8",
   "sdkVersion": "^0.3.7",
   "permissions": [
     "storage",
     "events",
     "ui:status-bar",
-    "ui:settings-section",
     "ui:command",
     "exec:omp",
     "exec:node",
@@ -17,7 +16,7 @@
   ],
   "sha256": {
     "main.js": "b77593d716b68e8262483fc40eed015dc4456e0110227d3e40d013436abf48be",
-    "manifest.json": "a2f93adc669d17c5357cf7bcdfbbd86d48d8424fcc32e924b7a2498c5f63ed61",
+    "manifest.json": "25706eda7fc95c507afb859dbf0de21f6e250daf199286eff47477d886d1bf06",
     "styles.css": "b8827ff0c23cbcea1d0b88be8e61822ecdc975f08934edefaac968003c569f99"
   },
   "screenshots": [
