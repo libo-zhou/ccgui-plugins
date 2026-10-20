@@ -1,12 +1,12 @@
 {
   "auto-title": 804,
-  "balance-meter": 471,
+  "balance-meter": 474,
   "claude-ip-check": 161,
   "composer-rainbow-border": 646,
   "model-switcher": 1002,
   "react-doctor": 408,
-  "service-status": 270,
-  "session-notes": 143,
+  "service-status": 272,
+  "session-notes": 144,
   "token-meter": 786,
   "wsl": 211
 }
